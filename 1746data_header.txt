@@ -1,0 +1,32 @@
+id_chamado : call_id
+categoria : category
+tipo: type
+subtip: sub_type
+oringem: origin
+tipo_solicitante: person_type
+status : status
+bairro: neighborhood
+sexo: sex
+grau_prioridade: priority
+prazi_tipo: deadline_type
+unidade_tempo: time_unit
+prazo: number_of_unit
+ds_diagnostico: ds_diagnosys
+ds_diagnostico_moderado: ds_diagnosys_moderated
+id_classifcacao_chamado: call_calssification_id
+id_subtipo_fk: fk_subtype_id
+id_scategoria_fk: fk_category_id
+id_origem_ocorrencia_fk: fk_event_origin_id
+id_tipo_solicitante_fk: fk_person_type_id
+id_bairro_logradouro_fk: fk_neighborhood_location_id
+id_pessoa_fk: fk_person_id
+id_statis_fk: fk_status_id
+data_abertura: openning_date
+data_fechamento: closure_date
+data_atualizacao: update_date
+nascimento: birthday
+dt_classificacao: classification_date
+dt_prevista_attendimento: service_anticipated_date
+dt_real_diagnostico: diagnosis_real_date
+x: lat
+y: long
